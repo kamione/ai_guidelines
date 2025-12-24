@@ -5,10 +5,10 @@
 
 ---
 
-Author: Ting-Yat Wong
-Maintained by: Ting-Yat Wong
-Version: 1.0
-Last updated: 24 December 2025
+- Author: Ting-Yat Wong
+- Maintained by: Ting-Yat Wong
+- Version: 1.0
+- Last updated: 24 December 2025
 
 ---
 
