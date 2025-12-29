@@ -7,7 +7,7 @@
 
 - Author: Ting-Yat Wong
 - Maintained by: Ting-Yat Wong
-- Version: 1.0
+- Version: 1.0.1
 - Last updated: 24 December 2025
 
 ***
@@ -17,7 +17,7 @@ The use of Artificial Intelligence (AI) tools in this course or laboratory is go
 
 
 #### 2. Permitted Uses of AI
-Unless otherwise specified for a particular assignment, task, or laboratory activity, students may use AI tools for the following purposes:
+Unless otherwise specified for a particular assignment, task, or laboratory activity, students may use AI tools for the following purposes, provided that all AI assisted output is critically reviewed, edited, and integrated by the student, and that the final submission reflects the student’s own work and academic judgment:
 - Language support, including grammar checking, proofreading, stylistic refinement, and translation  
 - Brainstorming and idea generation, where AI outputs are used as prompts and are critically evaluated, selectively adopted, and substantially refined by the student  
 - Assisting with organization, outlining, or clarity of expression in written work or presentations  
